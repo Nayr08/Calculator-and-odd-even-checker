@@ -134,7 +134,7 @@ public class Case1case2 {
             
         }
                 System.out.println(" Type 1 to go to MENU  ");
-                System.out.println(" Type 2 to exit calculator  ");
+                System.out.println(" Type 2 to exit application  ");
 
                         int menu;
                         menu=input.nextInt();
